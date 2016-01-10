@@ -8,15 +8,15 @@
 
     100% To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 
 #title {
-    
+
     font-size: 0px;
-    
-    
+
+
 }
 /*=======================================
     GENERAL STYLES
@@ -112,9 +112,9 @@ section {
     font-size:70px !important;
     font-weight:900!important;
     color:#fff!important;
-    padding:200px 20px 20px 20px;
+    padding:50px 20px 20px 20px;
     text-align: center;
-    
+
 }
 .head-sub-main {
     font-size:40px !important;
@@ -123,7 +123,7 @@ section {
     padding:5px 20px 30px 20px;
 }
 .head-last {
-  
+
     padding:5px 20px 200px 20px;
 }
 
@@ -139,9 +139,9 @@ nav {
     z-index:99;
 }
 .fixed {
-	position: fixed; 
-	top: 0; 
-	min-height: 50px; 
+	position: fixed;
+	top: 0;
+	min-height: 50px;
 	z-index: 99;
 }
 
@@ -173,7 +173,7 @@ background-attachment: fixed;
 min-height:300px;
 }
 .for-parallax-one {
-    
+
     color:#fff;
     padding:40px 20px 40px 20px;
     font-size:25px;
@@ -191,7 +191,7 @@ min-height:300px;
     margin: 30px 0px;
     list-style: none;
     text-align: center;
-  
+
     -webkit-transition: all 0.2s ease;
        -moz-transition: all 0.2s ease;
          -o-transition: all 0.2s ease;
@@ -209,9 +209,9 @@ min-height:300px;
 
 
 #whiteHeader{
-    
+
     color: white;
-    
+
 }
 
 .plan li {
@@ -248,7 +248,7 @@ background-attachment: fixed;
 min-height:300px;
 }
 .for-parallax-two {
-    
+
     color:#fff;
     padding:40px 20px 40px 20px;
     font-size:25px;
@@ -277,4 +277,3 @@ min-height:300px;
     padding:20px 50px 20px 50px;
     text-align:right;
 }
-
